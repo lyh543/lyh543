@@ -9,8 +9,9 @@
 </div>
 </div>
 
-* I'm Liu Yanhui, an undergraduate student in *UESTC*. I major in Computer Science and Technology.
+* I'm Liu Yanhui, an undergraduate student in **UESTC**. I major in Computer Science and Technology.
 * I use **C++**, **Python**, **JavaScript** when coding, and **LaTeX** when writing essays and lab reports.
-* I'm going to have an internship as a backend software engineer (unfortunately, they use **Java**) in *Tencent*.
-* I'm interested in, and also benefit from a large variety of compter technologies, e. g. **AMD (YES!), WSL, Docker, Caddy, AOSP, Hexo, Vue frontend & Django backend**.
+* I'm going to have an internship as a backend software engineer (unfortunately, they use **Java**) in **Tencent**.
+* Recently I'm working on an Activity Check-in Web App, with [Vue frontend](https://github.com/uestc-msc/uestcmsc_webapp_frontend) & [Django backend](https://github.com/uestc-msc/uestcmsc_webapp_backend), and [deployed](https://app-dev.uestc-msc.com) on Azure.
+* I'm interested in, and also benefit from a large variety of computer technologies, e. g. **AMD (YES!), WSL, Docker, Caddy, AOSP, Hexo**.
 * You can reach me at **lyh543@outlook.com**.
