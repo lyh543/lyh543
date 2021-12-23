@@ -1,6 +1,6 @@
 ## **YOUR AD HERE**（广告位招租）
 
-**My Blog on [GitHub Pages](https://lyh543.github.io/) and [Aliyun(mirror)](https://blog.lyh543.cn/)**
+**My Blog (Chinese) on [Aliyun](https://blog.lyh543.cn/) and [github.io](https://lyh543.github.io/)**
 
 <div>
 <div>
