@@ -7,7 +7,7 @@
 </div>
 </div>
 
-* I'm Yanhui Liu, graduated from **UESTC**, majoring in Computer Science and Technology.
+* I'm Yanhui Liu, graduated from **UESTC** at 2022, majoring in Computer Science and Technology.
 * Currently I'm coding **Python, TypeScript, Flutter**.
 * I'm working as software engineer for auto driving infrastructure of **[AutraTech](https://www.autra.tech/)**.
   * Welcome to join us! Job description is on official site, also you can send me email to get more detail.
