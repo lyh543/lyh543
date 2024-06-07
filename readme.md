@@ -13,3 +13,8 @@
   * Welcome to join us (in Beijing, Guangzhou and Shenzhen)! Job descriptions are on official site, also you can send me email to get more details.
 * I'm interested in, and also benefit from a large variety of computer technologies, e. g. **AMD (YES!), MIJIA IoT, Caddy, AOSP, Hexo & VuePress, RSS, Material Design**.
 * You can reach me at **lyh543@outlook.com**~
+
+## Recent blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
