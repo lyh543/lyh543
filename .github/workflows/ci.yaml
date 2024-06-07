@@ -1,0 +1,28 @@
+name: Update personal readme
+on: 
+    push:
+    schedule:
+        - cron: '0 */4 * * *'
+    workflow_dispatch:
+
+jobs: 
+    update-readme:
+        name: update latest post
+        runs-on: ubuntu-latest
+        timeout-minutes: 10
+        steps: 
+            - uses: actions/checkout@v3
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "5"
+                feed_list: "https://blog.lyh543.cn/feed.atom"
+            # - uses: stefanzweifel/git-auto-commit-action@v4
+            #   with:
+            #     commit_message: ${{ steps.last-commit-message.outputs.msg }}
+            #     commit_options: '--amend --no-edit --allow-empty'
+            #     push_options: '--force'
+            #     skip_fetch: true
+            #     # Optional commit user and author settings
+            #     commit_user_name: profile-summary-cards[bot]
+            #     commit_user_email: profile-summary-cards-bot@example.com
+            #     commit_author: profile-summary-cards[bot] <profile-summary-cards-bot@example.com>
