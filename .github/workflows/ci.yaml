@@ -15,7 +15,7 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: "https://blog.lyh543.cn/feed.atom"
+                feed_list: "https://lyh543.github.io/feed.atom"
             # - uses: stefanzweifel/git-auto-commit-action@v4
             #   with:
             #     commit_message: ${{ steps.last-commit-message.outputs.msg }}
