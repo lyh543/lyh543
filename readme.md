@@ -17,9 +17,9 @@
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [《深入剖析 Kubernetes》 笔记 - 网络](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/3-network.html)
 - [四层负载均衡漫谈（转载）](https://blog.lyh543.cn/posts/2024-05-22-layer-4-load-balance.html)
 - [《深入剖析 Kubernetes》 笔记 - 云原生](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/5-cloud-native.html)
 - [使用 Grafana 监控 Kubernetes](https://blog.lyh543.cn/posts/2024-04-27-use-grafana-to-monitor-on-kubernetes.html)
 - [《深入剖析 Kubernetes》 笔记 - 存储](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/2-storage.html)
-- [不同电子设备上的阅读体验](https://blog.lyh543.cn/posts/2024-04-09-reading-experience-on-diverse-digital-devices.html)
 <!-- BLOG-POST-LIST:END -->
