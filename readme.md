@@ -17,9 +17,9 @@
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [降低 CPU 功耗](https://blog.lyh543.cn/posts/2024-08-24-reduce-cpu-power.html)
 - [《深入剖析 Kubernetes》 笔记 - 网络](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/3-network.html)
 - [四层负载均衡漫谈（转载）](https://blog.lyh543.cn/posts/2024-05-22-layer-4-load-balance.html)
+- [《深入剖析 Kubernetes》 笔记 - 调度、容器运行时接口、监控、日志](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/4-scheduling-cri-monitor-log.html)
 - [《深入剖析 Kubernetes》 笔记 - 云原生](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/5-cloud-native.html)
-- [使用 Grafana 监控 Kubernetes](https://blog.lyh543.cn/posts/2024-04-27-use-grafana-to-monitor-on-kubernetes.html)
-- [《深入剖析 Kubernetes》 笔记 - 存储](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/2-storage.html)
 <!-- BLOG-POST-LIST:END -->
