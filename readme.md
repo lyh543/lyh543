@@ -20,9 +20,9 @@
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Pyenv 和 Pipenv 配置 Python 开发环境](https://blog.lyh543.cn/posts/2025-01-18-setup-python-dev-environment-with-pyenv-and-pipenv.html)
 - [采集 Tiktok 商家数据](https://blog.lyh543.cn/posts/2024-10-25-collect-tiktok-merchant-data.html)
 - [降低 CPU 功耗](https://blog.lyh543.cn/posts/2024-08-24-reduce-cpu-power.html)
 - [《深入剖析 Kubernetes》 笔记 - 网络](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/3-network.html)
 - [四层负载均衡漫谈（转载）](https://blog.lyh543.cn/posts/2024-05-22-layer-4-load-balance.html)
-- [《深入剖析 Kubernetes》 笔记 - 调度、容器运行时接口、监控、日志](https://blog.lyh543.cn/posts/2024-05-12-deep-dive-into-kubernetes-note/4-scheduling-cri-monitor-log.html)
 <!-- BLOG-POST-LIST:END -->
